@@ -1,0 +1,1 @@
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\StockManagementSystem\bin\Debug\StockManagementSystem.exe.config

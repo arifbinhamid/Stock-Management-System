@@ -1,0 +1,10 @@
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Model\bin\Debug\Model.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Model\bin\Debug\Model.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Model\obj\Debug\Model.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Model\obj\Debug\Model.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Model\bin\Debug\Model.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\Model\bin\Debug\Model.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Model\obj\Debug\Model.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\Model\obj\Debug\Model.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

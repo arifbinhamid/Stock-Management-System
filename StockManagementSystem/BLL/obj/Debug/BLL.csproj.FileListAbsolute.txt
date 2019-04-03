@@ -1,0 +1,18 @@
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\bin\Debug\BLL.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\bin\Debug\BLL.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\bin\Debug\DAL.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\bin\Debug\Model.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\bin\Debug\DAL.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\bin\Debug\Model.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\obj\Debug\BLL.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\BLL\obj\Debug\BLL.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\bin\Debug\BLL.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\bin\Debug\DAL.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\bin\Debug\Model.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\bin\Debug\DAL.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\bin\Debug\Model.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\obj\Debug\BLL.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\BLL\obj\Debug\BLL.pdb

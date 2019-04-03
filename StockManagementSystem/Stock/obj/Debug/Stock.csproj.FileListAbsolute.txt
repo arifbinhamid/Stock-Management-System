@@ -1,0 +1,45 @@
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\Stock.exe.config
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\Stock.exe
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\Stock.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.exe
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.Form1.resources
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\BLL.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\Model.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\DAL.dll
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\BLL.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\Model.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\bin\Debug\DAL.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.CategoryForm.resources
+C:\Users\Nafis\Documents\Visual Studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.CompanyForm.resources
+C:\Users\Nafis\Documents\Visual Studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.ItemForm.resources
+C:\Users\Nafis\Documents\Visual Studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.StockInForm.resources
+C:\Users\Nafis\Documents\Visual Studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.StockOutForm.resources
+C:\Users\Nafis\Documents\Visual Studio 2013\Projects\StockManagementSystem\Stock\obj\Debug\Stock.SearchAndViewForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\Stock.exe.config
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.exe
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\Stock.exe
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\Stock.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\BLL.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\Model.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\DAL.dll
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\BLL.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\Model.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\bin\Debug\DAL.pdb
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.CategoryForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.CompanyForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.Form1.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.ItemForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.SearchAndViewForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.StockInForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.StockOutForm.resources
+C:\Users\Sazid\Downloads\StockManagementSystem\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+C:\Users\Arif\Downloads\StockManagementSystem\StockManagementSystem\Stock\bin\Debug\Stock.exe.config
+C:\Users\Arif\Downloads\StockManagementSystem\StockManagementSystem\Stock\obj\Debug\Stock.exe
+C:\Users\Arif\Downloads\StockManagementSystem\StockManagementSystem\Stock\obj\Debug\Stock.pdb
